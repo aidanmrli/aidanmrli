@@ -1,9 +1,10 @@
 `Hello World!`
 
 
-Hi, my name is Aidan! I love problem-solving, and computer science is full of interesting problems. On my GitHub, you can see some of the projects and problems I am working on.
-- 👀 Topics I'm interested in: web development, algorithm design (e.g. graph algorithms), machine learning, data science/engineering
-- 🌱 What I'm working on: I’m currently working on a Voiceflow chatbot transcript processing web app.
+Hi, my name is Aidan! I love problem-solving, and computer science is full of interesting problems to work on!
+
+- 👀 Topics I'm interested in: algorithm design (e.g. graph algorithms), web development, machine learning, data science/engineering
+- 🌱 What I've been working on: I've spent the semester building a transcript processing web app in collaboration with Voiceflow!
 - 🇨🇦 Where I am: Toronto, ON
 - 📫 How to reach me: shoot me an email at aidan.li@mail.utoronto.ca
 
