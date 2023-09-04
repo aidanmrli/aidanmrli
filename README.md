@@ -1,12 +1,13 @@
 `Hello World!`
 
 
-Hi, I'm Aidan! I love problem-solving, and computer science is full of interesting problems to work on. I'm currently doing a data engineering internship at RBC Amplify, and large language model research at the Computational Social Science Lab.
+Hi, I'm Aidan! I love problem-solving, and computer science is full of interesting problems to work on. 
 
-- 👀 Topics I'm interested in: algorithm design (graph algorithms), machine learning algorithms, large language models, web development, data science/engineering
-- 🌱 What I've been working on: How can we use large language models to teach chess algorithmically?
-- 🇨🇦 Where I am: Toronto, ON
-- 📫 How to reach me: shoot me an email at aidan.li@mail.utoronto.ca
+I've just finished a software engineering internship at the Royal Bank of Canada (Amplify) where I worked on a micro-service for small businesses providing data analytics, actionable AI-powered business recommendations, and a marketing platform.
+
+- 👀 Topics I'm interested in: algorithm design, machine learning, data science & engineering, backend engineering
+- 🇨🇦 Where I am: Toronto, ON, Canada
+- 📫 How to reach me: aidan.mr.li@gmail.com
 
 Have a great day!
 <!---
