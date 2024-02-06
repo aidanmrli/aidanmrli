@@ -1,9 +1,8 @@
 `Hello World!`
 
+Hi, I'm Aidan.
 
-Hi, I'm Aidan! I love problem-solving, and computer science is full of interesting problems to work on. 
-
-I've just finished a software engineering internship at the Royal Bank of Canada (Amplify) where I worked on a micro-service for small businesses providing data analytics, actionable AI-powered business recommendations, and a marketing platform.
+I'm currently working on a project for the efficiency of Markov chain Monte Carlo (MCMC) algorithms, like the Metropolis algorithm.
 
 - 👀 Topics I'm interested in: algorithm design, machine learning, data science & engineering, backend engineering
 - 🇨🇦 Where I am: Toronto, ON, Canada
